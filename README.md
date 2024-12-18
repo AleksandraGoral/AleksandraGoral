@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AleksandraGoral
+- 📊 I’m an aspiring Data Analyst with 3+ years of experience in trading, bringing a solid understanding of data patterns and decision-making under pressure.
+- 🌱 Currently expanding my skillset by learning SQL and Power BI to unlock deeper insights from data.
+- 📫 Let’s connect! You can reach me at: aleksandra76goral@wp.pl
